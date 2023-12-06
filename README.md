@@ -60,8 +60,6 @@ Tree dimulai dari node `192.211.0.0/19` karena keseluruhan IP yang dibutuhkan ad
 
 ![Alt text](image/ip-vlsm.png)
 
-### IP subnetting yang telah dibuat pada Packet Tracer
-
 ### Testing
 
 - Sein - Richter (Server - Server)
