@@ -32,7 +32,6 @@ Laporan Resmi Praktikum Modul 4 Jaringan Komputer 2023
 
 ### Topologi GNS3
 <img width="717" alt="Screenshot 2023-12-02 081738" src="https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/815af4d5-2294-4695-8283-3627cdf5b600">
-26f574">
 
 ### Pembagian Subnet GNS3
 ![Langka 1](https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/37690cd7-13f1-4d0a-aac5-7dc38f60902c)
@@ -51,6 +50,7 @@ Laporan Resmi Praktikum Modul 4 Jaringan Komputer 2023
 ## CIDR
 ### Penggabungan IP
 Berikut adalah langkah-langkah penggabungan IP subnet yang kami lakukan :
+
 #### Kondisi Pertama (Subnet A)
 ![Langka 1](https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/37690cd7-13f1-4d0a-aac5-7dc38f60902c)
 <img width="383" alt="image" src="https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/6ea268ce-7742-44f1-9ec1-881d95802766">
@@ -89,10 +89,12 @@ Berikut adalah langkah-langkah penggabungan IP subnet yang kami lakukan :
 
 ### CIDR Tree
 Selanjutnya, setelah melakukan penggabungan IP kami membuat Tree CIDR
+
 ![Tree CIDR](https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/45d4eb88-cce8-4b0e-b8a4-c21e5d116786)
 
 ### Pembagian IP CIDR
 Selanjutnya, setelah membuat Tree CIDR kami membuat tabel pembagian IP berdasarkan Tree yang telah dibuat.
+
 <img width="335" alt="image" src="https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/a6188c70-9983-42b3-8a96-aabc7226f574">
 
 ### Konfigurasi
@@ -628,16 +630,21 @@ Selanjutnya, setelah membuat Tree CIDR kami membuat tabel pembagian IP berdasark
 
 ### Testing
 - RiegelCanyon - Aura (Client - Router)
+  
   <img width="403" alt="Screenshot 2023-12-06 171652" src="https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/4dd8c024-568a-4c82-9487-942702508749">
 
 - Fern - Linie (Router - Router)
+  
   <img width="326" alt="Screenshot 2023-12-06 171756" src="https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/526cf3cc-539e-4684-a32c-2777c351560f">
 
 - RoyalCapital - Laubhills (Client - Client)
+  
   <img width="399" alt="Screenshot 2023-12-06 171844" src="https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/7de59256-77c9-4961-bb43-fd991a9e457d">
 
 - Heiter - Denken (Router - Router)
+  
   <img width="332" alt="Screenshot 2023-12-06 171938" src="https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/402b8f88-df4f-4ffb-9409-ec29aa7955bb">
 
 - SchwerMountains - Lugner (Client - Router)
+  
   <img width="410" alt="Screenshot 2023-12-06 172024" src="https://github.com/mashitaad/Jarkom-Modul-4-E10-2023/assets/87978863/d5dc8700-99eb-4570-b971-2bfdb901cdce">
