@@ -50,7 +50,11 @@ Laporan Resmi Praktikum Modul 4 Jaringan Komputer 2023
 
 ### VLSM Tree
 
+Prefix IP : `192.211.x.x`
+
 ![Alt text](image/vlsm-tree.jpg)
+
+Tree dimulai dari node `192.211.0.0/19` karena keseluruhan IP yang dibutuhkan adalah 4255, jadi dibutuhkan pembagian IP dari length `/19`
 
 ### Pembagian IP VLSM
 
@@ -59,6 +63,34 @@ Laporan Resmi Praktikum Modul 4 Jaringan Komputer 2023
 ### IP subnetting yang telah dibuat pada Packet Tracer
 
 ### Testing
+
+- Sein - Richter (Server - Server)
+
+  ![Alt text](image/test-1.png)
+
+- GranzChannel - TurkRegion (Client - Client)
+
+  ![Alt text](image/test-2.png)
+
+- RiegelCanyon - Aura (Client - Router)
+
+  ![Alt text](image/test-3.png)
+
+- Fern - Linie (Router - Router)
+
+  ![Alt text](image/test-4.png)
+
+- RoyalCapital - LaubHills (Client - Client)
+
+  ![Alt text](image/test-5.png)
+
+- Heiter - Denken (Router - Router)
+
+  ![Alt text](image/test-6.png)
+
+- SchwerMountains - Lugner (Client - Router)
+
+  ![Alt text](image/test-7.png)
 
 ## CIDR
 
